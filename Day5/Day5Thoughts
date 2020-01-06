@@ -1,0 +1,5 @@
+Similar to Day 2, but values can be either immediate or locations (values or pointers)
+Code 3 takes an input value and stores it to the inputted location
+Code 4 outputs value at an address
+
+Provide a 1 for part 1, and check that all outputs are 0 except the last output
